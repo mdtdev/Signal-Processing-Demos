@@ -1,0 +1,3 @@
+Signal Processing Demos
+Copyright (C) 2016  Matthew D. Turner
+This software is released under the GPL3.
